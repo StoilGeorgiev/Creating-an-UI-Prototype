@@ -2,7 +2,7 @@
 Teamwork assignment for SoftUni course 
 
 Team and Tasks: 
-# Stoil:
+# Stoil user name S.Georgiev91:
 •	Create Repository, invite team and delegate tasks
 •	Index page and general layout
 •	Listing and layout of Blog-like pages with articles about travel destinations and "favourite" destination option
@@ -10,7 +10,7 @@ Team and Tasks:
 •	Loggin and register forms
 •	My profile Screen
 
-# Team member 2 
+# Stanimir
 •	Administration interface for publishing articles and managing locations - when the user is logged in 
 •	Advanced search form (by category, nearby events, price range, location, etc.)
 •	"Favoutrite" destination page - includes all the article, pictures and comments of the choosen destination. 
