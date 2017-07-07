@@ -15,7 +15,7 @@ Team and Tasks:
 •	Advanced search form (by category, nearby events, price range, location, etc.)
 •	"Favoutrite" destination page - includes all the article, pictures and comments of the choosen destination. 
 
-# Team membde 3:
+# Team member 3:
 • Comments on recommendations on a map ( when there are pinned location to the map)
 •	Mark the places they’ve already visited and post their pictures - creating a story like post with text and pictures
 • Comments on recommendations on a map ( when there are pinned location to the map)
