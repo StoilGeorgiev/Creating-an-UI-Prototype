@@ -10,7 +10,7 @@ Team and Tasks:
 •	Loggin and register forms
 •	My profile Screen
 
-# Stanimir
+# Stanimir user name: stanimirsp5
 •	Administration interface for publishing articles and managing locations - when the user is logged in 
 •	Advanced search form (by category, nearby events, price range, location, etc.)
 •	"Favoutrite" destination page - includes all the article, pictures and comments of the choosen destination. 
